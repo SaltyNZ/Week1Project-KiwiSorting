@@ -1,5 +1,5 @@
 Notice for User: https://github.com/SaltyNZ/
-Project: https://github.com/SaltyNZ/Week2_NibblesGame
+Project: https://github.com/SaltyNZ/Week1Project-KiwiSorting
 
 Rules with using this code and copying its contents:
 This work is open to anyone to use, copy and edit in anyway they seem fit as long as it follows all of Githubs guidelines.
